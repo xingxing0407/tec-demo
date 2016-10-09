@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/weixin-popular-2.8.1-SNAPSHOT.jar" sourcepath="C:/Users/weixin-popular-2.8.x"/>
+	<classpathentry kind="lib" path="lib/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/simple-java-mail-4.1.1.jar" sourcepath="C:/Users/Administrator/.m2/repository/org/simplejavamail/simple-java-mail/4.1.1/simple-java-mail-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.19.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-simple-1.7.19.jar"/>
+	<classpathentry kind="lib" path="lib/jcip-annotations-src.jar"/>
+	<classpathentry kind="lib" path="lib/jcip-examples-src.jar"/>
+	<classpathentry kind="lib" path="lib/jcip-annotations.jar"/>
+	<classpathentry kind="lib" path="lib/mongo-java-driver-3.2.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_79"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
