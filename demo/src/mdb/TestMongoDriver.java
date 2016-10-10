@@ -17,11 +17,9 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-import org.junit.Test;
 
 public class TestMongoDriver {
 
-    @Test
     public void testCRUD() throws UnknownHostException {
         // Á¬½Óµ½mongodb
         Mongo mongo = new Mongo("localhost", 27017);
