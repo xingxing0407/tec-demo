@@ -38,7 +38,6 @@ public class CompareTo {
 				return foo.sortedBy;
 			}
 		});
-		
 		List<Foo> sortedCopy = ordering.sortedCopy(list);//返回一个指定元素作为排序副本
 		System.out.println(sortedCopy);
 	}
